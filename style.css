@@ -1,0 +1,14 @@
+.texto__menor{
+    font-size: 10px;
+}
+.cor_icone{
+    color: #daff01;
+}
+
+.divs__facilidades {
+    width: 325px;
+}
+.cor__botao  { 
+    background: #9353ff !important; 
+    color: aliceblue !important; 
+}
